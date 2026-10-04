@@ -9,15 +9,7 @@
 
 // ==WindhawkModReadme==
 /*
-# CMD Banner: Windows 8.1
-Rewrites the two banner lines cmd.exe prints:
-
-    Microsoft Windows [Version 6.3.9600]
-    (c) 2013 Microsoft Corporation. All rights reserved.
-
-Both lines are editable in settings. Note `ver` uses the same text, so it
-gets rewritten too. Only text written to the console is changed; nothing about
-the real OS version is touched.
+#### REEEEEEEEEEEEADDDDDDDDDDDDDDDDD
 */
 // ==/WindhawkModReadme==
 
